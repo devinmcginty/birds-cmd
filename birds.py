@@ -2,7 +2,7 @@
 import random
 import os
 
-birds = [
+BIRDS = [
 """
                   ,      .-; 
                ,  |\\    / /  __,
@@ -374,7 +374,7 @@ birds = [
 """
 ]
 
-phrases = [
+PHRASES = [
     'Birds are very good',
     'Wow, it is good bird',
     'All birds are very nice',
@@ -388,6 +388,6 @@ phrases = [
 SAY = 'say {0} &'
 
 if __name__ == "__main__":
-    print(random.choice(birds))
-    os.system(SAY.format(random.choice(phrases)))
+    print(random.choice(BIRDS))
+    os.system(SAY.format(random.choice(PHRASES)))
 
