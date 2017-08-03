@@ -375,14 +375,22 @@ BIRDS = [
 ]
 
 PHRASES = [
-    'Birds are very good',
-    'Wow, it is good bird',
-    'All birds are very nice',
-    'bird, bird bird bird, bird bird',
-    'Every bird is special',
-    'Birds are wonderful critters',
-    'Each and every bird is precious',
-    'Oh wow. Bird. Yes indeed.'
+    'Birds are very good.',
+    'Wow, it is good bird.',
+    'All birds are very nice.',
+    'bird, bird bird bird, bird bird.',
+    'Every bird is special.',
+    'Birds are wonderful critters.',
+    'Each and every bird is precious.',
+    'Oh wow. Bird. Yes indeed.',
+    'Everybody loves birds because they are so special.',
+    'Birds are the best birds.',
+    'Look at that magical bird.',
+    'The world is a better place because it has birds in it.',
+    'Birds are wonderful and they make me smile.',
+    'Birds are mighty and powerful little fluff balls.',
+    'A bird is a marvelous friend to have.',
+    'Every single bird is the best bird.'
 ]
 
 SAY = 'say {0} &'
